@@ -20,7 +20,8 @@
 ## 👨‍💻 About Me  
 
 > **Frontend Developer** passionate about crafting clean, responsive, and user-friendly web experiences. I turn ideas into pixel-perfect realities with HTML, CSS, and JavaScript.  
-  
+
+- 🚀 Tech enthusiast focused on IoT, Embedded Systems, and Drone Technology with a passion for innovation.
 - 🌱 Currently diving deeper into **DSA with python** & modern frontend frameworks  
 - 🎨 I believe great UI is where **design meets code**  
 - 💡 Fun fact: I can debug CSS faster than I can make coffee ☕  
