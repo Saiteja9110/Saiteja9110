@@ -20,9 +20,8 @@
 ## 👨‍💻 About Me  
 
 > **Frontend Developer** passionate about crafting clean, responsive, and user-friendly web experiences. I turn ideas into pixel-perfect realities with HTML, CSS, and JavaScript.  
-
-- 🎯 **Content Creator** — Sharing knowledge on **YouTube**, **Medium**, and **Instagram**  
-- 🌱 Currently diving deeper into **JavaScript** & modern frontend frameworks  
+  
+- 🌱 Currently diving deeper into **DSA with python** & modern frontend frameworks  
 - 🎨 I believe great UI is where **design meets code**  
 - 💡 Fun fact: I can debug CSS faster than I can make coffee ☕  
 - 🚀 Always learning, always building  
@@ -46,8 +45,7 @@
 
 ## 🌐 Connect With Me  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@saitejaa7)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saitejaa7)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@saitejaa7)   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saitejaa7._/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-a-148556293/)  
 
